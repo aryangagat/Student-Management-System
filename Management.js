@@ -1,4 +1,4 @@
-const ADMIN = { username: 'Aryan-Gagat', password: '1234' };
+const ADMIN = { username: 'Aryan', password: '1234' };
   function login() {
     const u = document.getElementById('username').value;
     const p = document.getElementById('password').value;
