@@ -28,7 +28,7 @@
       border-radius: 6px;
     }
 
-    input { width: 22%; }
+    input { width: 30%; }
 
     button { background: #3b82f6; color: white; cursor: pointer; }
     button:hover { background: #06b6d4; }
